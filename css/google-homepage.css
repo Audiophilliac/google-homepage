@@ -1,0 +1,25 @@
+div {
+	text-align: center;
+}
+#logo img {
+	height: 150px;
+	width: auto ;
+}
+#field {
+	height: 27px;
+	width: 300px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+li {
+	display: inline;
+	float: left;
+}
+a {
+	display: block;
+	width: 60px;
+}
